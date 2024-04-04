@@ -23,9 +23,9 @@ I love astronomy, art, treking, coding, fishing, architecture, judo and speciall
 
 I studied scciences for 2 years and architecture for 3 years, I am enjoying Maths, Physics and Chemistry a lot, solving problems is cool.  
 
-You can find me by e-mail at mollet.clement.dev@gmail.com or n my LinkedIn profile: https://www.linkedin.com/in/clément-mollet-739b612bb
+You can find me by e-mail at mollet.clement.dev@gmail.com or on my LinkedIn profile: https://www.linkedin.com/in/clément-mollet-739b612bb
 
-Fun fact: I think Egg wasn't the first... 🐣
+Fun fact: I don't think that Egg was the first... 🐣
 
 <!---
 ClmtMlt/ClmtMlt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
