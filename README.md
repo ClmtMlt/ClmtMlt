@@ -8,7 +8,10 @@ I have learned Ruby, HTML, CSS, JS, React, Vue, Ruby on Rails, Stimulus, Bootstr
 I used to work on MacBook and Windows, it doesn't matter, I have both at home.
 
 At this time, I am working on different projects:
+
 -My WebCV, an Web App to show my skill to perform an unique CV
+
+
 -GuideBySo, a french "influenceur" asked me to build her a fully functionnal website asap from scratch
 
 If you want to learn a bit more about me,
