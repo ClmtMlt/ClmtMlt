@@ -13,7 +13,7 @@ At this time, I am working on different projects:
 
 -My WebCV, an Web App to show my skill to perform an unique CV
 
--GuideBySo, a french "influenceur" asked me to build her a fully functionnal website asap from scratch
+-GuideBySo, a french "créateur de contenu" asked me to build her a fully functionnal website asap from scratch
 
 If you want to learn a bit more about me,
 
