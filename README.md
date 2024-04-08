@@ -19,7 +19,7 @@ If you want to learn a bit more about me,
 
 I am in love with plants, I used to propagate some rare plants at my home, I trade some good advices to my friend and I am my friend's plants doctor... Can I call myself Dr Mollet ? 
 
-I love astronomy, art, treking, coding, fishing, architecture, judo and specially music! I can't do anything without music, my personnal sourcec of inspiration in term of music is Hans Zimmer.
+I love astronomy, art, treking, coding, fishing, architecture, judo and specially music! I can't do anything without music, my personnal source of inspiration in term of music is Hans Zimmer.
 
 I studied scciences for 2 years and architecture for 3 years, I am enjoying Maths, Physics and Chemistry a lot, solving problems is cool.  
 
