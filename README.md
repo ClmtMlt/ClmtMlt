@@ -15,6 +15,8 @@ At this time, I am working on different projects:
 
 -GuideBySo, a french "créateur de contenu" asked me to build her a fully functionnal website asap from scratch
 
+-Protoype, a web video game, challenging myself, i am developping my very first browser game
+
 If you want to learn a bit more about me,
 
 I am in love with plants, I used to propagate some rare plants at my home, I trade some good advices to my friend and I am my friend's plants doctor... Can I call myself Dr Mollet ? 
@@ -25,7 +27,6 @@ I studied scciences for 2 years and architecture for 3 years, I am enjoying Math
 
 You can find me by e-mail at mollet.clement.dev@gmail.com or on my LinkedIn profile: https://www.linkedin.com/in/clément-mollet-739b612bb
 
-Fun fact: I don't think that Egg was the first... 🐣
 
 <!---
 ClmtMlt/ClmtMlt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
